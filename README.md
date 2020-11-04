@@ -31,10 +31,9 @@
 
 - For now, it is important that you understand: what port scanning is; why it is necessary; and that nmap is the tool of choice for any kind of initial enumeration.
 
-**Task 1 (Nmap Quiz)**
+**Task 1 **
 - 1) What networking constructs are used to direct traffic to the right application on a server?
-    
-    **ports**
+     **ports**
 
 - 2) How many of these are available on any network-enabled computer?
     **65535**
@@ -45,7 +44,7 @@
 **Task 2**
 - Deploy the attached machine and give it a few minutes to properly start up
 
-**Task 3**
+**Task 3 (Nmap Quiz)**
 - Nmap is installed by default on Kali Linux or install it by command "sudo apt-get install nmap" in termial
 - It can be accessed by typing nmap in a terminal, followed by some of the switches which will be covered below.
 -For help menu (accessed with nmap --help).Include all parts of the switch unless otherwise specified, this includes the hyphen at the start (-).
