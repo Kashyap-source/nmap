@@ -3,6 +3,7 @@
 ![alt text](https://github.com/kashyap-source/nmap/blob/main/nmap.png)
 
 **Source:** Created by  DarkStar7471 and  MuirlandOracle
+
 ***Description:***
    Get experience with Nmap, a powerful network scanning tool.
  
@@ -32,7 +33,8 @@
 
 **Task 1 (Nmap Quiz)**
 - 1) What networking constructs are used to direct traffic to the right application on a server?
-     **ports**
+    
+    **ports**
 
 - 2) How many of these are available on any network-enabled computer?
     **65535**
