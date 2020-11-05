@@ -97,7 +97,8 @@
 **Task 4 (Nmap Scanning)**
  1) Let's go ahead and start with the basics and perform a syn scan on the box provided. What will this command be without the host IP address?
     
-     **nmap -sS or sudo nmap -sS**
+    **nmap -sS or sudo nmap -sS**
+
 ![alt text](https://github.com/kashyap-source/nmap/blob/main/ima/Screenshot_2020-08-31_02-11-14.png) 
 
  2) After scanning this, how many ports do we find open under 1000?
