@@ -115,9 +115,9 @@
  5) Perform an aggressive scan, what flag isn't set under the results for port 80?
       **httponly**
     
-    -**command**
+    **command**
          
-         - nmap -vv -A <BOX_IP>
+          nmap -vv -A <BOX_IP>
 ![alt text](https://github.com/kashyap-source/nmap/blob/main/ima/Screenshot%202020-11-04%2013_46_50.png) 
 
  6) Perform a script scan of vulnerabilities associated with this box, what denial of service (DOS) attack is this box susceptible to? Answer with the name for the vulnerability that is given as the section title in the scan output. A vuln scan can take a while to complete. In case you get stuck, the answer for this question has been provided in the hint, however, it's good to still run this scan and get used to using it as it can be invaluable. 
