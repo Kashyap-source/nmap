@@ -113,7 +113,9 @@
 
  5) Perform an aggressive scan, what flag isn't set under the results for port 80?
       **httponly**
-      -**command**
+    
+    -**command**
+         
          - nmap -vv -A <BOX_IP>
 ![alt text](https://github.com/kashyap-source/nmap/blob/main/ima/Screenshot%202020-11-04%2013_46_50.png) 
 
