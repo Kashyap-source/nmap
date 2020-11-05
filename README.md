@@ -122,7 +122,7 @@
 
  6) Perform a script scan of vulnerabilities associated with this box, what denial of service (DOS) attack is this box susceptible to? Answer with the name for the vulnerability that is given as the section title in the scan output. A vuln scan can take a while to complete. In case you get stuck, the answer for this question has been provided in the hint, however, it's good to still run this scan and get used to using it as it can be invaluable. 
 
-  **http-slowloris-check**
+      **http-slowloris-check**
 
   
 
